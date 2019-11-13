@@ -6,6 +6,7 @@ inThisBuild(
     organization := "dev.zio",
     homepage := Some(url("https://github.com/zio/zio-kafka")),
     licenses := List("Apache-2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0")),
+    version := "0.4.0",
     useCoursier := false,
     scalaVersion := mainScala,
     crossScalaVersions := allScala,
